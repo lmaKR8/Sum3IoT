@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CompraVenta</string>
+    <string name="default_web_client_id">392449785244-9uu41qceilpqn25r9piecck7det2lb5f.apps.googleusercontent.com</string>
+
+    <string name="Item_Inicio">Inicio</string>
+    <string name="Item_Chats">Chats</string>
+    <string name="Item_Vender">Vender</string>
+    <string name="Item_Mis_Anuncios">Mis Anuncios</string>
+    <string name="Item_Cuenta">Cuenta</string>
+
+    <string name="TituloRL">Titulo</string>
+
+    <string name="Ingresar_email">Ingresar con email</string>
+    <string name="Ingresar_google">Ingresar con google</string>
+
+    <string name="Txt_login">Login de usuario</string>
+    <string name="Et_email">Email</string>
+    <string name="Et_password">Password</string>
+    <string name="Btn_ingresar">Ingresar</string>
+    <string name="Txt_no_cuenta">¿No tienes cuenta?</string>
+    <string name="Txt_registrarme">REGISTRARME</string>
+
+    <string name="Txt_registro">Registro de usuario</string>
+    <string name="Et_r_password">Repetir contraseña</string>
+    <string name="Btn_registrar">Registrar</string>
+
+    <string name="Btn_cerrar_sesion">Cerrar sesión</string>
+
+    <!--Crear anuncio-->
+    <string name="Et_marca">Nombre de la marca</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Condicion">Condición</string>
+    <string name="Locacion">Locación</string>
+    <string name="Et_precio">Precio</string>
+    <string name="Et_titulo">Título</string>
+    <string name="Et_descripcion">Descripción</string>
+    <string name="Btn_crear_anuncio">Crear anuncio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

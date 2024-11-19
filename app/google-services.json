@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392449785244",
+    "firebase_url": "https://compraventa-d8d00-default-rtdb.firebaseio.com",
+    "project_id": "compraventa-d8d00",
+    "storage_bucket": "compraventa-d8d00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392449785244:android:09481f5fb2c240258d5c59",
+        "android_client_info": {
+          "package_name": "com.example.compraventa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392449785244-04ko29t996gtpca5ebgc8vta2f0vniqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compraventa",
+            "certificate_hash": "f7e3d8c0ae53e5551132eb316708f41d1b91cd9f"
+          }
+        },
+        {
+          "client_id": "392449785244-9uu41qceilpqn25r9piecck7det2lb5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDVW_pOrXTZYFdlGWjalaHsEHNwp8URc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392449785244-9uu41qceilpqn25r9piecck7det2lb5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
